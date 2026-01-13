@@ -2,9 +2,9 @@
 ## <font size="7"><a href="https://saksham-gupta-portfolio.vercel.app/" target="_blank">View my portfolio</a></font>
 
 
-# Hi there, I'm ERSA-14
+# Hi there, I'm Saksham Gupta
 
-Welcome to my GitHub profile! I'm passionate about coding and building projects that solve real-world problems.
+Welcome to my GitHub profile! I'm passionate about coding and building projects that solve Real-World problems.
 
 ## About Me
 
@@ -47,8 +47,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 ---
 
-From :
-**saksham gupta**
+**Social Channels**
 
 - [LinkedIn](https://www.linkedin.com/in/saksham-gupta-ersa/)
 - [GitHub](https://github.com/ERSA-14)
