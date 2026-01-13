@@ -4,7 +4,7 @@
 
 # Hi , I'm Saksham Gupta
 
-Welcome to my GitHub profile! I'm passionate about coding and building projects that solve Real-World problems.
+Welcome to my GitHub profile! I'm coding and building projects that solve Real-World problems.
 
 # Working Philosophy
 
@@ -12,7 +12,7 @@ Let's be real: deep down, we know we are a model built on societal values and hu
 
 ## About Me
 
-I'm a software developer who enjoys exploring new technologies and contributing to projects. I believe in writing clean, efficient code and continuously learning to improve my skills.
+I'm a software developer who enjoys exploring new technologies. I believe in writing clean, efficient code and continuously learning to improve my skills.
 
 ## Technologies & Dev Tools
 
@@ -25,7 +25,6 @@ I'm a software developer who enjoys exploring new technologies and contributing 
 ## What I'm Working On
 
 - Building innovative web applications
-- Contributing to projects
 - Learning new frameworks and technologies
 - Improving my problem-solving skills through coding challenges
 
@@ -37,14 +36,9 @@ I'm a software developer who enjoys exploring new technologies and contributing 
 - Machine learning and AI Concept.
 
 ## Let's Connect
-- Email: Saksham22sg@gmail.com
-- Phone: [+91-635-879-8314](tel:+916358798314)
-
-I'm always open to interesting conversations and collaboration opportunities!
-
--  Open to collaboration on innovative projects
--  Feel free to reach out for discussions about tech, code, or potential collaborations
--  Fun fact: I love solving complex problems and turning ideas into reality
+- Feel free to reach out for discussions about tech, code, or potential collaborations
+  - Email: Saksham22sg@gmail.com
+  - Phone: [+91-635-879-8314](tel:+916358798314)
 
 ## Contribution Graph
 
