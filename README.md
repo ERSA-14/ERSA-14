@@ -6,6 +6,10 @@
 
 Welcome to my GitHub profile! I'm passionate about coding and building projects that solve Real-World problems.
 
+# Working Philosophy
+
+Let's be real: deep down, we know we are a model built on societal values and human values. My personal approach is to break down problems into several foundational problem statements. I curiously deep dive into each problem statement, build a solid foundation, and create a personal interpretation for it. By doing this recursively, I solve real-world and complex problems.
+
 ## About Me
 
 I'm a developer who enjoys exploring new technologies and contributing to open-source projects. I believe in writing clean, efficient code and continuously learning to improve my skills.
@@ -30,7 +34,7 @@ I'm a developer who enjoys exploring new technologies and contributing to open-s
 
 - Advanced algorithms and data structures
 - Cloud architecture and DevOps practices
-- Machine learning and AI fundamentals
+- Machine learning and AI Concept.
 
 ## Let's Connect
 - Email: Saksham22sg@gmail.com
