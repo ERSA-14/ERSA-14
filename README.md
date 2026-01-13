@@ -41,7 +41,7 @@ I'm always open to interesting conversations and collaboration opportunities!
 -  Feel free to reach out for discussions about technology, coding, or potential collaborations
 -  Fun fact: I love solving complex problems and turning ideas into reality
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ERSA-14&theme=react-dark)
 
