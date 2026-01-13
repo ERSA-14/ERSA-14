@@ -1,8 +1,8 @@
 
-## <font size="7"><a href="https://saksham-gupta-portfolio.vercel.app/" target="_blank">View my portfolio</a></font>
+## <font size="7"><a href="https://saksham-gupta-portfolio.vercel.app/" target="_blank"> Portfolio</a></font>
 
 
-# Hi there, I'm Saksham Gupta
+# Hi , I'm Saksham Gupta
 
 Welcome to my GitHub profile! I'm passionate about coding and building projects that solve Real-World problems.
 
@@ -31,14 +31,15 @@ I'm a developer who enjoys exploring new technologies and contributing to open-s
 - Advanced algorithms and data structures
 - Cloud architecture and DevOps practices
 - Machine learning and AI fundamentals
-- Best practices in software engineering
 
 ## Let's Connect
+- Email: Saksham22sg@gmail.com
+- Phone: +916358798314
 
 I'm always open to interesting conversations and collaboration opportunities!
 
 -  Open to collaboration on innovative projects
--  Feel free to reach out for discussions about technology, coding, or potential collaborations
+-  Feel free to reach out for discussions about tech, code, or potential collaborations
 -  Fun fact: I love solving complex problems and turning ideas into reality
 
 ## Contribution Graph
@@ -52,8 +53,6 @@ I'm always open to interesting conversations and collaboration opportunities!
 - [LinkedIn](https://www.linkedin.com/in/saksham-gupta-ersa/)
 - [GitHub](https://github.com/ERSA-14)
 - [LeetCode](https://leetcode.com/u/ERSA-14/)
-- Email: Saksham22sg@gmail.com
-- Phone: +916358798314
 
 <!--
 **ERSA-14/ERSA-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
