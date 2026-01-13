@@ -34,7 +34,7 @@ I'm a developer who enjoys exploring new technologies and contributing to open-s
 
 ## Let's Connect
 - Email: Saksham22sg@gmail.com
-- Phone: +916358798314
+- Phone: [+91-635-879-8314](tel:+916358798314)
 
 I'm always open to interesting conversations and collaboration opportunities!
 
