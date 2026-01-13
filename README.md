@@ -1,6 +1,5 @@
 
-## <font size="10"><a href="https://saksham-gupta-portfolio.vercel.app/" target="_blank"> Portfolio<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/c848d284-6276-4e9e-9066-d5246563d48a" />
-</a></font>
+## <font size="10"><a href="https://saksham-gupta-portfolio.vercel.app/" target="_blank"> Portfolio 🔗</a></font>
 
 
 # Hi , I'm Saksham Gupta
@@ -49,6 +48,5 @@ I'm a software developer who enjoys exploring new technologies. I believe in wri
 
 **Social Channels**
 
-- [LinkedIn](https://www.linkedin.com/in/saksham-gupta-ersa/)
-- [GitHub](https://github.com/ERSA-14)
-- [LeetCode](https://leetcode.com/u/ERSA-14/)
+- [LinkedIn 🔗](https://www.linkedin.com/in/saksham-gupta-ersa/)
+- [LeetCode 🔗](https://leetcode.com/u/ERSA-14/)
