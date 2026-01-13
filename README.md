@@ -42,7 +42,7 @@ I'm a software developer who enjoys exploring new technologies. I believe in wri
 
 ## Git commit Graph
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ERSA-14&theme=github-dark&custom_title=Ersa%20commits&hide_border=false&area=true&line_width=1&point_size=1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ERSA-14&theme=react-dark&custom_title=Contribution%20Activity&hide_border=true&area=true&line_width=2&point_size=5&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&title_color=58A6FF&area_color=1F6FEB)
 
 ---
 
