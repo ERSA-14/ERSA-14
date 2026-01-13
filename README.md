@@ -12,7 +12,7 @@ Let's be real: deep down, we know we are a model built on societal values and hu
 
 ## About Me
 
-I'm a developer who enjoys exploring new technologies and contributing to open-source projects. I believe in writing clean, efficient code and continuously learning to improve my skills.
+I'm a software developer who enjoys exploring new technologies and contributing to projects. I believe in writing clean, efficient code and continuously learning to improve my skills.
 
 ## Technologies & Dev Tools
 
@@ -25,7 +25,7 @@ I'm a developer who enjoys exploring new technologies and contributing to open-s
 ## What I'm Working On
 
 - Building innovative web applications
-- Contributing to open-source projects
+- Contributing to projects
 - Learning new frameworks and technologies
 - Improving my problem-solving skills through coding challenges
 
