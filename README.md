@@ -25,9 +25,6 @@ I'm a developer who enjoys exploring new technologies and contributing to open-s
 - Learning new frameworks and technologies
 - Improving my problem-solving skills through coding challenges
 
-## 📊 GitHub Stats
-
-![ERSA-14's GitHub stats](https://github-readme-stats.vercel.app/api?username=ERSA-14&show_icons=true&theme=radical)
 
 ## 🌱 Currently Learning
 
