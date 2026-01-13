@@ -40,13 +40,13 @@ I'm a software developer who enjoys exploring new technologies. I believe in wri
   - Email: Saksham22sg@gmail.com
   - Phone: [+91-635-879-8314](tel:+916358798314)
 
-## Contribution Graph
+## Git commit Graph
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ERSA-14&theme=react-dark)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=ERSA-14&theme=github-dark)
 
 ---
 
 **Social Channels**
 
-- [LinkedIn 🔗](https://www.linkedin.com/in/saksham-gupta-ersa/)
-- [LeetCode 🔗](https://leetcode.com/u/ERSA-14/)
+- [LinkedIn](https://www.linkedin.com/in/saksham-gupta-ersa/)
+- [LeetCode](https://leetcode.com/u/ERSA-14/)
