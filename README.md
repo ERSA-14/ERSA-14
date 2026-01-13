@@ -1,5 +1,6 @@
 
-## <font size="10"><a href="https://saksham-gupta-portfolio.vercel.app/" target="_blank"> Portfolio</a></font>
+## <font size="10"><a href="https://saksham-gupta-portfolio.vercel.app/" target="_blank"> Portfolio<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/c848d284-6276-4e9e-9066-d5246563d48a" />
+</a></font>
 
 
 # Hi , I'm Saksham Gupta
