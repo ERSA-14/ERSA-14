@@ -20,9 +20,9 @@ Let's be real: deep down, we know we are a model built on societal values and hu
 
 ## What I'm Working On
 
-- Building innovative web applications
+- Building innovative and scalable web applications
 - Learning new frameworks and technologies
-- Improving my problem-solving skills through coding challenges
+- Improving my real world problem-solving skills through coding challenges
 
 
 ## Currently Learning
