@@ -36,9 +36,9 @@ I'm a software developer who enjoys exploring new technologies. I believe in wri
 - Machine learning and AI Concept.
 
 ## Let's Connect
-- Feel free to reach out for discussions about tech, code, or potential collaborations
-  - Email: Saksham22sg@gmail.com
-  - Phone: [+91-635-879-8314](tel:+916358798314)
+Feel free to reach out for discussions about tech, code, or potential collaborations
+-Email: Saksham22sg@gmail.com
+-Phone: [+91-635-879-8314](tel:+916358798314)
 
 ## Git commit Graph
 
