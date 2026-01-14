@@ -4,7 +4,7 @@
 
 # Hi , I'm Saksham Gupta
 
-Welcome to my GitHub profile! I'm coding and building projects that solve Real-World problems.
+I'm coding and building projects that solve Real-World problems.
 
 # Working Philosophy
 
