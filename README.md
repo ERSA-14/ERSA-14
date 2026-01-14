@@ -12,11 +12,11 @@ Let's be real: deep down, we know we are a model built on societal values and hu
 
 ## Technologies & Dev Tools
 
-- **Languages:** Python, JavaScript, Java
+- **Languages:** Python, Java, JavaScript, Typescript, SQL
 - **Web Development:** HTML, CSS, TailwindCSS, React, Next, Node.js
-- **Databases:** MySQL, Oracle DB, PostgreSQL
-- **Tools:** Git, Docker, Antigravity, Linux
-- **Cloud:** AWS, Google Cloud Platform
+- **Databases:** MySQL, Oracle DB, Postgres
+- **Tools:** Git, Docker, Antigravity, vs-code, linux 
+- **Cloud:** AWS Cloud, Google Cloud
 
 ## What I'm Working On
 
@@ -27,14 +27,14 @@ Let's be real: deep down, we know we are a model built on societal values and hu
 
 ## Currently Learning
 
-- Advanced algorithms and data structures
-- Cloud architecture and DevOps practices
-- Machine learning and AI Concept.
+- Advanced Algorithms & Data Structures
+- Cloud architecture & DevOps practices
+- Machine learning & AI Concepts.
 
 ## Let's Connect
 Feel free to reach out for discussions about tech, code, or potential collaborations
 
-- Email: Saksham22sg@gmail.com
+- Email: saksham22sg@gmail.com
 - Phone: [+91-635-879-8314](tel:+916358798314)
 
 ## Git commit Graph
