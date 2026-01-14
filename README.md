@@ -13,7 +13,7 @@ Let's be real: deep down, we know we are a model built on societal values and hu
 ## Technologies & Dev Tools
 
 - **Languages:** Python, Java, JavaScript, Typescript, SQL
-- **Web Development:** HTML, CSS, TailwindCSS, React, Next, Node.js
+- **Web Development:** HTML, CSS, TailwindCSS, Bootstrap, React, Next, Node, Express
 - **Databases:** MySQL, Oracle DB, Postgres
 - **Tools:** Git, Docker, Antigravity, vs-code, linux 
 - **Cloud:** AWS Cloud, Google Cloud
