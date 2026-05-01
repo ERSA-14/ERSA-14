@@ -1,8 +1,4 @@
-
-## <font size="10"><a href="https://saksham-gupta-portfolio.vercel.app/" target="_blank">Portfolio</a></font>
-
-
-# Hi , I'm Saksham Gupta
+# Hi , I'm Saksham Gupta ## <font size="10"><a href="https://saksham-gupta-portfolio.vercel.app/" target="_blank">Portfolio</a></font>
 
 I'm coding and building projects that solve Real-World problems.
 
@@ -13,6 +9,3 @@ I'm coding and building projects that solve Real-World problems.
 - **Databases:** MySQL, Oracle DB, Postgres
 - **Tools:** Git, Docker, linux 
 - **Cloud:** AWS, GCP
-
-
-- [LeetCode](https://leetcode.com/u/ERSA-14/)
