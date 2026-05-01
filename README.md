@@ -1,4 +1,4 @@
-# Hi , I'm Saksham Gupta # <font size="10"><a href="https://saksham-gupta-portfolio.vercel.app/" target="_blank">Portfolio</a></font>
+# Hi , I'm Saksham Gupta <font size="10"><a href="https://saksham-gupta-portfolio.vercel.app/" target="_blank">Portfolio</a></font>
 
 I'm coding and building projects that solve Real-World problems.
 
